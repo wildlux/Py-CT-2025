@@ -28,4 +28,4 @@ Se volete portare il vostro gioco di pygame sui vostri dispositivi!
 |---|---|
 |->|https://www.reddit.com/r/pygame/comments/ovwnly/how_do_you_make_your_py_game_into_an_exe_file|
 |->|https://pyinstaller.org/en/stable|
-|->||https://pythonprogramming.net/converting-pygame-executable-cx_freeze|
+|->|https://pythonprogramming.net/converting-pygame-executable-cx_freeze|

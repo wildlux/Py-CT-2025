@@ -1,4 +1,5 @@
 Benvenuto in questo repository!
+![Python Catania 2025](/img/ciao.jpg)
 
 Questo posto metterò tutto il materiale sia didattico che il codice per fare un semplice gioco in pygame!
 

@@ -8,7 +8,7 @@ Se volete portare il vostro gioco di pygame sui vostri dispositivi!
 
 |Gnu Linux|Links|
 |---|---|
-|->| https://www.pygame.org/wiki/CompileUbuntu|
+|[]| https://www.pygame.org/wiki/CompileUbuntu|
 |->|https://www.pygame.org/wiki/GettingStarted|
 
 |Android |Links|

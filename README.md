@@ -1,5 +1,5 @@
 Benvenuto in questo repository!
-![Python Catania 2025](https://github.com/wildlux/Py-CT-2025/blob/main/images/logo_traparente.png)
+![Python Catania 2025](images/logo_traparente.png)
 
 Questo posto metterò tutto il materiale sia didattico che il codice per fare un semplice gioco in pygame!
 

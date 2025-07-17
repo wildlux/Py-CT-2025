@@ -1,5 +1,5 @@
 Benvenuto in questo repository!
-![Python Catania 2025](images/logo_traparente.png)
+![enter image description here](images/logo_traparente.png)
 
 Questo posto metterò tutto il materiale sia didattico che il codice per fare un semplice gioco in pygame!
 

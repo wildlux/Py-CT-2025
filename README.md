@@ -6,8 +6,8 @@ Potrebbe essere sfruttato su qualsiasi piattaforma Desktop - MObile - Tablet
 
 Se volete portare il vostro gioco di pygame sui vostri dispositivi!
 
-Gnu Linux
--> https://www.pygame.org/wiki/CompileUbuntu
+|Gnu Linux||
+| |-> https://www.pygame.org/wiki/CompileUbuntu|
 -> https://www.pygame.org/wiki/GettingStarted
 
 Android 

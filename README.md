@@ -1,5 +1,5 @@
 Benvenuto in questo repository!
-![enter image description here](images/logo_traparente.png)
+![Python CT ](images/logo_traparente.png)
 
 Questo posto metterò tutto il materiale sia didattico che il codice per fare un semplice gioco in pygame!
 

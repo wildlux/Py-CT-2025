@@ -5,7 +5,7 @@ Questo posto metterò tutto il materiale sia didattico che il codice per fare un
 Potrebbe essere sfruttato su qualsiasi piattaforma Desktop - MObile - Tablet
 
 Se volete portare il vostro gioco di pygame sui vostri dispositivi!
-|---|---|
+
 |Gnu Linux|Links|
 | -> | https://www.pygame.org/wiki/CompileUbuntu|
 |-> |https://www.pygame.org/wiki/GettingStarted|
